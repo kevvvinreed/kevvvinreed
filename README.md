@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Kevin Reed
 
 🎯 **Full Stack Developer | CS Grad '21**  
-🌐 [github.com/kevvvinreed](https://github.com/kevvvinreed)
 
 ---
 
