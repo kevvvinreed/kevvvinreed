@@ -18,14 +18,6 @@ I'm a developer with 9 years of programming experience and 6+ years of experienc
 - **Databases:** Supabase, MongoDB, PostgreSQL, Firestore, SQL
 - **Extras:** Adobe XD / Photoshop / Illustrator, CI/CD, Auth, Security
 
----
-
-## 🧠 Projects
-
-- 📰 Enterprise CMS software for [Fusion92](https://fusion92.com/)  
-- 🥊 NFT marketplace for [Glory Kickboxing](https://glorykickboxing.com/) — 13.7k users / 32k transactions  
-- 🧪 Sole developer for [Kush Kriminals](https://www.kushkriminals.com/) — frontend, backend, infrastructure  
-- 🛒 Automated tools for e-commerce workflows (AliExpress → eBay / Depop)
 
 ---
 
