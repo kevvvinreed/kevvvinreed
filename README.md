@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kevin Reed
 
-🎯 **Full Stack Developer **  
+🎯 **Full Stack Developer**  
 
 ---
 
