@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kevin Reed
 
-🎯 **Full Stack Developer | CS Grad '21**  
+🎯 **Full Stack Developer **  
 
 ---
 
