@@ -1,12 +1,6 @@
-# 👋 Hey, I'm Kevin
-
-🎯 **Full Stack Developer**  
-
----
-
 ## ⚡ About Me
 
-I'm a developer with 9 years of programming experience and 6+ years of experience building responsive, secure, and scalable full-stack applications. I’ve worked on everything e-commerce automations to blockchain platforms and enterprise CMS systems. I thrive in fast-paced, hands-on environments where shipping quality code matters.
+I'm a developer with 9 years of programming experience, building responsive, secure, and scalable full-stack applications. I’ve worked on everything e-commerce automations to blockchain platforms and enterprise CMS systems. I thrive in fast-paced, hands-on environments where shipping quality code matters.
 
 ---
 
@@ -17,7 +11,6 @@ I'm a developer with 9 years of programming experience and 6+ years of experienc
 - **Cloud & DevOps:** GCP, Azure, Cloudflare, Docker, GitHub Actions  
 - **Databases:** Supabase, MongoDB, PostgreSQL, Firestore, SQL
 - **Extras:** Adobe XD / Photoshop / Illustrator, CI/CD, Auth, Security
-
 
 ---
 
@@ -30,4 +23,4 @@ I'm a developer with 9 years of programming experience and 6+ years of experienc
 
 ---
 
-🧰 *Versatile. Reliable. Scalable.*
+🌐 *Think. Create. Repeat.*
