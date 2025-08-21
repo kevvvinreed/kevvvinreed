@@ -20,10 +20,10 @@ I'm a developer with 9 years of programming experience, building responsive, sec
 
 ## 🧩 Experience
 
-- **2023–Now:** Front End Dev @ Fusion92  
-- **2022–2023:** Full Stack Dev @ Metalabz  
-- **2021–2022:** Full Stack Dev @ Fandem  
 - **2019–2021:** E-commerce automation & freelance
+- **2021–2022:** Full Stack Dev @ Fandem  
+- **2022–2023:** Full Stack Dev @ Metalabz  
+- **2023–Now:** Front End Dev @ Fusion92  
 
 ---
 
