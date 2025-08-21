@@ -1,7 +1,7 @@
 <a href="https://shipitkev.dev" target="_blank">
   <img src="https://shipitkev.dev/api/serve-gif" alt="Portfolio Preview" width="600" />
 </a>
-
+[![Watch the video](https://shipitkev.dev/api/serve-gif)](https://shipitkev.dev/)
 ## ⚡ About Me
 
 I'm a developer with 9 years of programming experience, building responsive, secure, and scalable full-stack applications. I’ve worked on everything e-commerce automations to blockchain platforms and enterprise CMS systems. I thrive in fast-paced, hands-on environments where shipping quality code matters.
