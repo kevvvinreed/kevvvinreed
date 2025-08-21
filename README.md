@@ -1,4 +1,6 @@
-https://shipitkev.dev/api/serve-gif
+<a href="https://shipitkev.dev" target="_blank">
+  <img src="https://shipitkev.dev/preview.gif" alt="Portfolio Preview" width="600" />
+</a>
 
 ## ⚡ About Me
 
