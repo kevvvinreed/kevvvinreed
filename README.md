@@ -1,6 +1,5 @@
 
-![preview](https://github.com/user-attachments/assets/362c6920-a9fb-41cf-b679-ed614074ca1c)
-
+[![preview](https://github.com/user-attachments/assets/362c6920-a9fb-41cf-b679-ed614074ca1c)](https://shipitkev.dev)
 
 ## ⚡ About Me
 
